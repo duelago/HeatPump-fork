@@ -11,6 +11,8 @@ Here is also a picture of the connector on the heatpump board so you know how to
 ![board](https://github.com/user-attachments/assets/bc6d9ea6-e552-4486-a977-92a48497ff6d)
 
 
+![Screenshot_2024-09-12-19-09-49-56_e4424258c8b8649f6e67d283a50a2cbc](https://github.com/user-attachments/assets/8aee19da-0a29-4dbd-87bb-461b75f4e441)
+
 
 Support Chat here -> [![Join the chat at https://gitter.im/Mitsubishi-Heat-Pump](https://badges.gitter.im/Join%20Chat.svg)](https://app.gitter.im/#/room/#Mitsubishi-Heat-Pump_Lobby:gitter.im)  <-Support Chat here
 
