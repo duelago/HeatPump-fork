@@ -1,3 +1,17 @@
+## Daily timer
+
+A fork of the original project. I just changed one file and that is the basic example. Added a daily timer, OTA updates and some better looking HTML. The daily timer is stored in EEPROM
+
+My code: 
+https://github.com/duelago/HeatPump-fork/blob/master/examples/HP-standalone-daily-timer.ino
+
+I had success with the older Wemos board to the left. The new V3 didn't work for me
+Here is also a picture of the connector on the heatpump board so you know how to connect the wires to the esp8266
+
+![board](https://github.com/user-attachments/assets/bc6d9ea6-e552-4486-a977-92a48497ff6d)
+
+
+
 Support Chat here -> [![Join the chat at https://gitter.im/Mitsubishi-Heat-Pump](https://badges.gitter.im/Join%20Chat.svg)](https://app.gitter.im/#/room/#Mitsubishi-Heat-Pump_Lobby:gitter.im)  <-Support Chat here
 
 # HeatPump
